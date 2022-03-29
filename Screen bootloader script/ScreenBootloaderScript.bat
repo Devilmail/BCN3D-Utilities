@@ -14,7 +14,7 @@ echo.
 
 echo **************
  SET /P Choice = hit enter to begin...
-IF "%Choice%"=="" scriptc LOADSIGMA /c comXX
+IF "%Choice%"=="" scriptc LOADSIGMA /c com03
 scriptc LOADSIGMA /c com51
 
 echo ----------------------------------------------
